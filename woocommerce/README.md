@@ -11,6 +11,7 @@ Lo primero es descomprimir el archivo en la carpeta de plugin de wordpress (./wp
 ####
 ### Activación
 Después hay que activar el plugin para poderlo configurar.
+####
 ![Activar plugin](img/activar_plugin.png)
 ### Dónde configurar
 Una vez activado, ha que dirigirse del menu de woocommerce a /Ajustes/Farmaconnect
